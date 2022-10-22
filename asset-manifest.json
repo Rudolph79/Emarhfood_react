@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Emarhfood_react/static/css/main.93fe3ca5.css",
+    "main.js": "/Emarhfood_react/static/js/main.bf43a393.js",
+    "static/js/787.837e5f16.chunk.js": "/Emarhfood_react/static/js/787.837e5f16.chunk.js",
+    "static/media/rajasthani.jpg": "/Emarhfood_react/static/media/rajasthani.ae32883353b0f39a3804.jpg",
+    "static/media/logo.png": "/Emarhfood_react/static/media/logo.019682feddc6460646b2.png",
+    "static/media/chhola.jpg": "/Emarhfood_react/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/south.jpg": "/Emarhfood_react/static/media/south.bff375884081b310f70e.jpg",
+    "static/media/paneer.jpg": "/Emarhfood_react/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/Emarhfood_react/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/gujrati.jpeg": "/Emarhfood_react/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/Emarhfood_react/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "static/media/android-chrome-512x512.png": "/Emarhfood_react/static/media/android-chrome-512x512.530bdddb9339814e420f.png",
+    "index.html": "/Emarhfood_react/index.html",
+    "main.93fe3ca5.css.map": "/Emarhfood_react/static/css/main.93fe3ca5.css.map",
+    "main.bf43a393.js.map": "/Emarhfood_react/static/js/main.bf43a393.js.map",
+    "787.837e5f16.chunk.js.map": "/Emarhfood_react/static/js/787.837e5f16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93fe3ca5.css",
+    "static/js/main.bf43a393.js"
+  ]
+}
